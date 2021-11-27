@@ -6,6 +6,6 @@
 
 ### 참고자료
 
-[유튜브 링크 참고](https://www.youtube.com/c/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%EC%A0%95%EB%8C%80%EB%A6%AC/playlists)
-[인프런 강좌](https://www.inflearn.com/course/%EC%A0%95%EB%8C%80%EB%A6%AC-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EC%B4%88)
-[노션 자료](https://spangle-wedelia-2dc.notion.site/Swift-Tip-of-the-day-c428bfd990674bcfa2a4973e5d08c4eb)
+[유튜브 링크 참고](https://www.youtube.com/c/%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%EC%A0%95%EB%8C%80%EB%A6%AC/playlists)  
+[인프런 강좌](https://www.inflearn.com/course/%EC%A0%95%EB%8C%80%EB%A6%AC-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EA%B8%B0%EC%B4%88)  
+[노션 자료](https://spangle-wedelia-2dc.notion.site/Swift-Tip-of-the-day-c428bfd990674bcfa2a4973e5d08c4eb)  
